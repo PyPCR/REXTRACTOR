@@ -71,7 +71,7 @@ If you want to get in touch with developers, contack through this [mlrs.project2
   <tbody>
     <tr>
       <td align='center' valign='top'><a href="https://github.com/chandru-g24"> <img src="https://avatars.githubusercontent.com/u/111188572?s=400&u=befb7d97d2b8419a715a22b09d92f825bdc33906&v=4" width = '60px;' alt='Chandru G'/> <br /> <sub><b><a href="https://www.linkedin.com/in/chandru-g24/"> Chandru Ganeshan</a></b></sub></a><br /></td>
-      <td align='center' valign='top'><a href="https://github.com/Vikram2305"> <img src="https://media.licdn.com/dms/image/D5635AQHTnrO7k_V5sA/profile-framedphoto-shrink_400_400/0/1690390366384?e=1710500400&v=beta&t=QT4Gy7Jnb4sIETxoaR93ypSi_DnqS86IViKoMYvXsxk" width = '60px;' alt='Vikram S'/> <br /> <sub><b><a href="https://www.linkedin.com/in/vikram-sekar/"> Vikram Sekar</a></b></sub></a><br /></td>
+      <td align='center' valign='top'><a href="https://github.com/Vikram2305"> <img src="https://avatars.githubusercontent.com/u/124907782?s=400&u=a5d9c4ca9f08e5bb5e88bc4d049d5e80703d1c89&v=4" width = '60px;' alt='Vikram S'/> <br /> <sub><b><a href="https://www.linkedin.com/in/vikram-sekar/"> Vikram Sekar</a></b></sub></a><br /></td>
     </tr>
   </tbody>
   
