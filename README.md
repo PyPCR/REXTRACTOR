@@ -67,6 +67,7 @@ Users can see the detailed demonstration video [here](https://youtu.be/ipHgC5T4M
 If you want to get in touch with developers, contack through this [mlrs.project2024@gmail.com](mailto:mlrs.project2024@gmail.com?subject=Rextractor%20Software)
 
 # Developers
+The developer of this Software are M.Sc Data Analytics Students in Department of Computer Application at [Bharathiar University](https://b-u.ac.in/23/department-computer-applications)
 <table style='width:40%'>
   <tbody>
     <tr>
